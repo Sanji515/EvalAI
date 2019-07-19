@@ -6,5 +6,17 @@
   "files": ["README.md"],
   "imageSize": 100,
   "contributorsPerLine": 7,
-  "contributors": []
+  "contributors": [
+    {
+      "login": "jfmengels",
+      "name": "Jeroen Engels",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3869412?v=3",
+      "profile": "https://github.com/jfmengels",
+      "contributions": [
+        "code",
+        "doc",
+        "test"
+      ]
+    },
+  ]
 }
