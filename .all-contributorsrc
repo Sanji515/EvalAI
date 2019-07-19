@@ -6,7 +6,7 @@
   "commit": false,
   "contributorsPerLine": 6,
   "files": [
-    "README.md"
+    "TEST.md"
   ],
   "repoHost": "https://github.com",
   "commitConvention": "angular",
