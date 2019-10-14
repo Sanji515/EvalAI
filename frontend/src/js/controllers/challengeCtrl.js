@@ -73,7 +73,7 @@
         vm.scrollToEntryAfterLeaderboardLoads = function () {
             // get unique rank number from the url & if exists hightlight the entry
             $timeout(function() {
-                const elementId = $location.absUrl().split('?')[0].split('#')[1];
+                var elementId = $location.absUrl().split('?')[0].split('#')[1];
                 if (elementId) {
                     $anchorScroll.yOffset = 90;
                     $anchorScroll(elementId);
